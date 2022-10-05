@@ -1,35 +1,33 @@
 ### Index
 
-* [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
-    * [Version Control Systems](#version-control-systems)
-* [Android](#android)
-* [Assembly](#assembly)
-* [Bash](#bash)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [Coq](#coq)
-* [Haskell](#haskell)
-* [HTML and CSS](#html-and-css)
-* [Java](#java)
-* [JavaScript](#javascript)
-* [LaTeX](#latex)
-* [Lisp](#lisp)
-* [MySQL](#mysql)
-* [Perl](#perl)
-* [PHP](#php)
-    * [Symfony](#symfony)
-* [Prolog](#prolog)
-* [Python](#python)
-    * [Django](#django)
-* [Ruby](#ruby)
-* [SQL](#sql)
+- [Index](#index)
+- [0 - Niezależne od języka programowania](#0---niezależne-od-języka-programowania)
+  - [Version Control Systems](#version-control-systems)
+- [Android](#android)
+- [Assembly](#assembly)
+- [Bash](#bash)
+- [C](#c)
+- [<a id="csharp"></a>C\#](#c-1)
+- [<a id="cpp"></a>C++](#c-2)
+- [Haskell](#haskell)
+- [HTML and CSS](#html-and-css)
+- [Java](#java)
+- [JavaScript](#javascript)
+- [LaTeX](#latex)
+- [Lisp](#lisp)
+- [MySQL](#mysql)
+- [Perl](#perl)
+- [PHP](#php)
+- [Prolog](#prolog)
+- [Python](#python)
+  - [Django](#django)
+- [Ruby](#ruby)
+- [SQL](#sql)
 
 
 ### 0 - Niezależne od języka programowania
 
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
-* [Interaktywna platforma do nauki programowania](http://apki.org)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
@@ -147,7 +145,6 @@
 ### PHP
 
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
-* [Kurs PHP OOP](http://cyberpunk.e-spin.pl/86,37,5/KOD/KURSY-PROGRAMOWANIA/Kurs-PHP-OOP)
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
